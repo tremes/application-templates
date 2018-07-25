@@ -468,6 +468,10 @@
                                     {
                                         "name": "SPLIT_DATA",
                                         "value": "${SPLIT_DATA}"
+                                    },
+                                    {
+                                        "name": "CUSTOM_INSTALL_DIRECTORIES",
+                                        "value": "${CUSTOM_INSTALL_DIRECTORIES}"
                                     }
                                 ]
                             }
